@@ -20,7 +20,3 @@ You can reach me via email:
 ## ⚡ Fun Fact
 When I’m not coding, you’ll likely find me following the latest trends in crypto and stock markets. I believe that understanding financial markets will give me a unique edge in creating impactful technology solutions.
 
----
-
-Feel free to adjust the contact details or add more personal touches if you'd like. This README should now give potential employers a strong impression of your interests, skills, and ambitions.
---->
