@@ -5,7 +5,7 @@
 I'm deeply passionate about AI and blockchain technology, with a clear goal of becoming a full-stack developer. I have a keen interest in how these technologies intersect with financial markets, and I aspire to build innovative solutions that align with these passions.
 
 ## 🌱 Currently Learning
-I’m currently in my 4th year at university, where I’m studying computer science. I recently earned a grade 2 pass in my Data Structures and Algorithms module, a milestone I'm particularly proud of. I’m currently learning django and SQL.
+I’m currently in my 4th year at university, where I’m studying computer science. I recently earned a grade 2 pass in my Data Structures and Algorithms module, a milestone I'm particularly proud of. I’m currently learning django, CRUD, CI/CD and SQL.
 
 ## 💼 Future Plans
 In my spare time, I’m constantly honing my programming skills, whether through university projects or platforms like Codecademy. I'm also planning to start building projects that combine my interests in finance, AI, and blockchain—creating tools and applications that could make a real impact in these fields.
