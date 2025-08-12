@@ -1,22 +1,42 @@
+# 👋 Hi, I'm Steve (@Full-stack-block-ai)
 
-# 👋 Hi, I’m Steve (@Full-stack-block-ai)
+I'm a 4th-year Computer Science student passionate about AI, blockchain, and full-stack development. I thrive at the intersection of technology and financial markets, aiming to build innovative solutions that drive real-world impact in fintech. Beyond coding, I'm an avid learner who spends hours immersed in audiobooks on topics like physics, biology, and neuroscience—fueling my curiosity and broadening my perspective on complex systems.
 
-## 👀 About Me
-I'm deeply passionate about AI and blockchain technology, with a clear goal of becoming a full-stack developer. I have a keen interest in how these technologies intersect with financial markets, and I aspire to build innovative solutions that align with these passions.
+## 🛠️ Skills & Technologies
+- **Languages:** Python, Java, HTML, Css, JavaScript, SQL
+- **Frameworks & Tools:** Django,  Node.js, CI/CD pipelines
+- **Interests:** AI/ML, Blockchain, Data Structures & Algorithms, Fintech Applications
+
+[![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-Learning-green?logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Blockchain](https://img.shields.io/badge/Blockchain-Enthusiast-orange?logo=bitcoin&logoColor=white)](https://en.wikipedia.org/wiki/Blockchain)
 
 ## 🌱 Currently Learning
-I’m currently in my 4th year at university, where I’m studying computer science. I recently earned a grade 2 pass in my Data Structures and Algorithms module, a milestone I'm particularly proud of. I’m currently learning django, CRUD, CI/CD and SQL.
+- Advanced web development with Django and CRUD operations
+- studying CI/CD workflows for efficient deployment on udemy
+- SQL database management and optimization
 
-## 💼 Future Plans
-In my spare time, I’m constantly honing my programming skills, whether through university projects or platforms like Codecademy. I'm also planning to start building projects that combine my interests in finance, AI, and blockchain—creating tools and applications that could make a real impact in these fields.
+## 🎓 Education & Achievements
+- **Bachelor's in Computer Science** (Expected Graduation: 2027) – Currently in my 4th year(part time), focusing on core CS principles.
+- Achieved a Grade 2 pass in Data Structures and Algorithms module, demonstrating strong problem-solving skills.
 
-## 💞️ Looking to Collaborate On
-I’m eager to collaborate on projects that involve AI, blockchain, and full-stack development, particularly those that have a financial or fintech focus. Whether it's contributing to open-source projects or joining a startup team, I'm open to new opportunities and challenges.
+## 🚀 Future Goals
+I'm dedicated to honing my skills through university projects, online platforms like Codecademy and Udemy, and personal initiatives. My plan is to develop open-source projects that integrate AI, blockchain, and finance—such as predictive analytics tools for markets or decentralized apps for secure transactions. I'm eager to transition into a full-stack developer role in a dynamic tech environment.
+
+## 🤝 Looking to Collaborate On
+Open-source projects in AI, blockchain, full-stack development, or fintech innovations. Whether it's contributing code, brainstorming ideas, or joining a startup team, I'm excited about opportunities that challenge and grow my skills.
 
 ## 📫 How to Reach Me
-You can reach me via email:
-- **Email:** Stephenjmhough@outlook.com
+- **Email:** [Stephenjmhough@outlook.com](mailto:Stephenjmhough@outlook.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/stephen-hough-160b52214) (Add your LinkedIn if available)
+
 
 ## ⚡ Fun Fact
-When I’m not coding, you’ll likely find me following the latest trends in crypto and stock markets. I believe that understanding financial markets will give me a unique edge in creating impactful technology solutions.
+When not coding or analyzing market trends in crypto and stocks, I unwind with audiobooks exploring the wonders of science—from quantum physics to the intricacies of the human brain. This passion keeps me inspired to apply scientific thinking to tech challenges.
 
+## 📊 GitHub Stats
+![Steve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Full-stack-block-ai&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Full-stack-block-ai&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Full-stack-block-ai&theme=radical)
