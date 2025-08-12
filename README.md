@@ -39,4 +39,4 @@ When not coding or analyzing market trends in crypto and stocks, I unwind with a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Full-stack-block-ai&layout=compact&theme=radical)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Full-stack-block-ai&theme=radical)
+![Streak Stats](https://github-readme-streak-stats-eight.vercel.app?user=Full-stack-block-ai&theme=radical)
