@@ -28,7 +28,7 @@ Open-source projects in AI, blockchain, full-stack development, or fintech innov
 
 ## 📫 How to Reach Me
 - **Email:** [Stephenjmhough@outlook.com](mailto:Stephenjmhough@outlook.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/stephen-hough-160b52214) (Add your LinkedIn if available)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/stephen-hough-160b52214)
 
 
 ## ⚡ Fun Fact
