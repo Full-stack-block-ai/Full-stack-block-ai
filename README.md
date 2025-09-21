@@ -4,7 +4,7 @@ I'm a 4th-year Computer Science student passionate about AI, blockchain, and ful
 
 ## 🛠️ Skills & Technologies
 - **Languages:** Python, Java, HTML, Css, JavaScript, SQL
-- **Frameworks & Tools:** Flask, Django,  Node.js, CI/CD pipelines, CRUD, Balsamiq
+- **Frameworks & Tools:** Flask, Django,  Node.js, CI/CD pipelines, CRUD, Balsamiq, Linux
 - **Interests:** AI/ML, Blockchain, Data Structures & Algorithms, Fintech Applications
 
 [![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white)](https://www.python.org/)
