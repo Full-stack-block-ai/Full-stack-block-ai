@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Steve (@Full-stack-block-ai)
 
-I'm a 4th-year Computer Science student passionate about AI, blockchain, and full-stack development. I thrive at the intersection of technology and financial markets, aiming to build innovative solutions that drive real-world impact in fintech. Beyond coding, I'm an avid learner who spends hours immersed in audiobooks on topics like physics, biology, and neuroscience—fueling my curiosity and broadening my perspective on complex systems.
+I'm a 4th-year Computer Science student passionate about AI, blockchain, and full-stack development. Beyond coding, I'm an avid learner who spends hours immersed in audiobooks on topics like physics, biology, and neuroscience—fueling my curiosity and broadening my perspective on complex systems.
 
 ## 🛠️ Skills & Technologies
 - **Languages:** Python, Java, HTML, Css, JavaScript, SQL
